@@ -1,8 +1,8 @@
 package com.example.rewardssystem.controller;
 
-import com.example.service.springbootrewards.model.Customer;
-import com.example.service.springbootrewards.model.Transaction;
-import com.example.service.springbootrewards.service.TransactionsService;
+import com.example.rewardssystem.model.Customer;
+import com.example.rewardssystem.model.Transaction;
+import com.example.rewardssystem.service.TransactionsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

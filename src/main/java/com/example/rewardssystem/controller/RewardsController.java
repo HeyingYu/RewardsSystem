@@ -2,9 +2,9 @@ package com.example.rewardssystem.controller;
 
 import java.util.*;
 
-import com.example.service.springbootrewards.model.Transaction;
-import com.example.service.springbootrewards.service.RewardsService;
-import com.example.service.springbootrewards.service.TransactionsService;
+import com.example.rewardssystem.model.Transaction;
+import com.example.rewardssystem.service.RewardsService;
+import com.example.rewardssystem.service.TransactionsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

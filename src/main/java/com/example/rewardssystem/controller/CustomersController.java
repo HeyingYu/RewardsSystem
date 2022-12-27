@@ -1,11 +1,11 @@
 package com.example.rewardssystem.controller;
 
-import com.example.service.springbootrewards.model.Customer;
+import com.example.rewardssystem.model.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import com.example.service.springbootrewards.service.CustomersService;
+import com.example.rewardssystem.service.CustomersService;
 
 import java.util.List;
 
